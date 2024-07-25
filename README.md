@@ -1,13 +1,17 @@
-**Übung 1 – Workload-Analyse**
+**Übung 1 - Repository Klonen**
+
+Klonen Sie dieses Repository auf ihrem Rechner. Hierzu sollten Sie bspw. git installieren: [https://git-scm.com/book/de/v2/Erste-Schritte-Git-installieren](url)
+
+**Übung 2 – Workload-Analyse**
 
 In der zu dieser Übung ebenfalls bereitgestellten Excel-Tabelle Demands.xlsx sind 7 Services mit ihren Demands (im zeitlichen Verlauf von oben nach unten in der jeweiligen Spalte) dargestellt. Pro Zelle ist die Anzahl der Ressourceneinheiten (vCPUs) angegeben, welche pro Zeiteinheit (Stunde) genutzt werden.
 Stellen Sie die Services jeweils grafisch dar und ordnen Sie sie dem jeweiligen Workload-Typ aus der Vorlesung zu.
 
-**Übung 2 – Peak-to-Average-Ratio**
+**Übung 3 – Peak-to-Average-Ratio**
 
 Berechnen Sie für jeden Service aus Übung 1 das Peak-to-Average Ratio.
 
-**Übung 3 – Cloud-Kosten und das Peak-to-Average-Ratio**
+**Übung 4 – Cloud-Kosten und das Peak-to-Average-Ratio**
 
 Im Folgenden werden die Kosten (in €) einer vCPU für eine Cloud-Ressource c und eine On-premise-Ressource d betrachtet. Bestimmen Sie für die folgenden Kostenverhältnisse, welcher der Services sich für eine Cloud-Lösung eignet:
 
@@ -25,7 +29,7 @@ Im Folgenden werden die Kosten (in €) einer vCPU für eine Cloud-Ressource c u
 
 
 
-**Übung 4 – Kosten für IaaS, PaaS und SaaS**
+**Übung 5 – Kosten für IaaS, PaaS und SaaS**
 
 Wir betrachten nun den Fall, dass wir die Services aus Übung 1 entweder On-Premise betreiben, oder durch eine IaaS, PaaS oder SaaS Lösung (mit unterschiedlichen Kosten) realisieren. Für die On-Premise-Lösung seien Kosten von 1€ pro Ressource und Zeiteinheit angenommen. In der folgenden Tabelle sind Kosten-Staffelungen der IaaS-, PaaS- und SaaS-Dienste verschiedener Anbieter gelistet. Welcher Service wäre in welcher Variante bei welchem Anbieter am wirtschaftlichsten?
 
