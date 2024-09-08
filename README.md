@@ -1,3 +1,20 @@
+**Übung 0 - Aufwärmübung mit der Kommandozeile**
+
+Im cloud-nativen Umfeld arbeitet man häufig mit der Kommandozeile. Deshalb machen wir eine kurze Aufwärmübung dazu. Erledigen Sie folgende Aufgaben ausschließlich über die Kommandozeile:
+
+a) Öffnen Sie ein Terminal
+b) Lassen Sie sich den absoluten Pfad des Verzeichnisses anzeigen, in dem Sie gerade arbeiten
+c) Wechseln Sie in eine Verzeichnis ihrer Wahl
+d) Gehen Sie ein Verzeichnis nach oben im Verzeichnispfad
+e) Gehen Sie ein Verzeichnis nach unten im Verzeichnispfad
+f) Legen Sie dort ein Verzeichnis namens CloudComputing an
+g) Legen Sie in diesem Verzeichnis eine Datei namens server.log an
+h) Lassen Sie sich alle Dateien im Verzeichnis CloudComputing anzeigen
+i) Löschen Sie die Datei server.log
+j) Löschen Sie die das Verzeichnis CloudComputing (oder behalten Sie es, um dort alle weiteren Materialen zur Vorlesungen und zu den Übungen abzulegen)
+k) Lasse Sie sich alle Prozesse anzeigen die gerade laufen
+l) Beenden Sie ihren Terminal-Prozess
+
 **Übung 1 - Repository Klonen**
 
 Klonen Sie dieses Repository auf ihrem Rechner. Hierzu können Sie bspw. [git](https://git-scm.com/book/de/v2/Erste-Schritte-Git-installieren) installieren.
