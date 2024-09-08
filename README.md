@@ -11,8 +11,8 @@ f) Legen Sie dort ein Verzeichnis namens CloudComputing an
 g) Legen Sie in diesem Verzeichnis eine Datei namens server.log an  
 h) Lassen Sie sich alle Dateien im Verzeichnis CloudComputing anzeigen  
 i) Löschen Sie die Datei server.log  
-j) Löschen Sie die das Verzeichnis CloudComputing (oder behalten Sie es, um dort alle weiteren Materialen zur Vorlesungen und zu den Übungen abzulegen)  
-k) Lasse Sie sich alle Prozesse anzeigen die gerade laufen  
+j) Löschen Sie das Verzeichnis CloudComputing (oder behalten Sie es, um dort alle weiteren Materialen zur Vorlesungen und zu den Übungen abzulegen)  
+k) Lassen Sie sich alle Prozesse anzeigen die gerade laufen  
 l) Beenden Sie ihren Terminal-Prozess  
 
 
