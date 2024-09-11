@@ -18,7 +18,12 @@ l) Beenden Sie ihren Terminal-Prozess
 
 **Übung 1 - Repository Klonen**
 
-Klonen Sie dieses Repository auf ihrem Rechner. Hierzu können Sie bspw. [git](https://git-scm.com/book/de/v2/Erste-Schritte-Git-installieren) installieren.
+Klonen Sie dieses Repository auf ihrem Rechner. Hierzu können Sie bspw. [git](https://git-scm.com/book/de/v2/Erste-Schritte-Git-installieren) installieren.  
+
+   ```bash
+git clone https://github.com/THN-Cloud-native-Computing/cnc-uebung1
+   ```
+
 
 **Übung 2 – Workload-Analyse**
 
