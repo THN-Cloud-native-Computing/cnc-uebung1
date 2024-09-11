@@ -1,4 +1,4 @@
-**Übung 0 - Aufwärmübung mit der Kommandozeile**
+**Aufgabe 0 - Aufwärmübung mit der Kommandozeile**
 
 Im cloud-nativen Umfeld arbeitet man häufig mit der Kommandozeile. Deshalb machen wir eine kurze Aufwärmübung dazu. Erledigen Sie folgende Aufgaben ausschließlich über die Kommandozeile:
 
@@ -16,7 +16,7 @@ k) Lassen Sie sich alle Prozesse anzeigen die gerade laufen
 l) Beenden Sie ihren Terminal-Prozess  
 
 
-**Übung 1 - Repository Klonen**
+**Aufgabe 1 - Repository Klonen**
 
 Um Repositories zu klonen, sollten Sie zunächst [git](https://git-scm.com/book/de/v2/Erste-Schritte-Git-installieren) installieren (das geht auch über die Kommandozeile). Sie können dann dieses Repository klonen mit:
 
@@ -25,16 +25,16 @@ git clone https://github.com/THN-Cloud-native-Computing/cnc-uebung1
    ```
 
 
-**Übung 2 – Workload-Analyse**
+**Aufgabe 2 – Workload-Analyse**
 
 In der zu dieser Übung ebenfalls bereitgestellten Excel-Tabelle Demands.xlsx sind 7 Services mit ihren Demands (im zeitlichen Verlauf von oben nach unten in der jeweiligen Spalte) dargestellt. Pro Zelle ist die Anzahl der Ressourceneinheiten (vCPUs) angegeben, welche pro Zeiteinheit (Stunde) genutzt werden.
 Stellen Sie die Services jeweils grafisch dar und ordnen Sie sie dem jeweiligen Workload-Typ aus der Vorlesung zu.
 
-**Übung 3 – Peak-to-Average-Ratio**
+**Aufgabe 3 – Peak-to-Average-Ratio**
 
 Berechnen Sie für jeden Service aus Übung 1 das Peak-to-Average Ratio.
 
-**Übung 4 – Cloud-Kosten und das Peak-to-Average-Ratio**
+**Aufgabe 4 – Cloud-Kosten und das Peak-to-Average-Ratio**
 
 Im Folgenden werden die Kosten (in €) einer vCPU für eine Cloud-Ressource c und eine On-premise-Ressource d betrachtet. Bestimmen Sie für die folgenden Kostenverhältnisse, welcher der Services sich für eine Cloud-Lösung eignet:
 
@@ -52,7 +52,7 @@ Im Folgenden werden die Kosten (in €) einer vCPU für eine Cloud-Ressource c u
 
 
 
-**Übung 5 – Kosten für IaaS, PaaS und SaaS**
+**Aufgabe 5 – Kosten für IaaS, PaaS und SaaS**
 
 Wir betrachten nun den Fall, dass wir die Services aus Übung 1 entweder On-Premise betreiben, oder durch eine IaaS, PaaS oder SaaS Lösung (mit unterschiedlichen Kosten) realisieren. Für die On-Premise-Lösung seien Kosten von 1€ pro Ressource und Zeiteinheit angenommen. In der folgenden Tabelle sind Kosten-Staffelungen der IaaS-, PaaS- und SaaS-Dienste verschiedener Anbieter gelistet. Welcher Service wäre in welcher Variante bei welchem Anbieter am wirtschaftlichsten?
 
