@@ -1,4 +1,4 @@
-*Übung 1*
+'Übung 1
 
 **Aufgabe 0 - Aufwärmübung mit der Kommandozeile**
 
