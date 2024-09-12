@@ -1,3 +1,5 @@
+*Übung 1*
+
 **Aufgabe 0 - Aufwärmübung mit der Kommandozeile**
 
 Im cloud-nativen Umfeld arbeitet man häufig mit der Kommandozeile. Deshalb machen wir eine kurze Aufwärmübung dazu. Erledigen Sie folgende Aufgaben ausschließlich über die Kommandozeile:
