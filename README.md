@@ -6,15 +6,15 @@ Im cloud-nativen Umfeld arbeitet man häufig mit der Kommandozeile. Deshalb mach
 
 a) Öffnen Sie ein Terminal  
 b) Lassen Sie sich den absoluten Pfad des Verzeichnisses anzeigen, in dem Sie gerade arbeiten  
-c) Wechseln Sie in eine Verzeichnis ihrer Wahl  
+c) Wechseln Sie in ein Verzeichnis ihrer Wahl  
 d) Gehen Sie ein Verzeichnis nach oben im Verzeichnispfad  
 e) Gehen Sie ein Verzeichnis nach unten im Verzeichnispfad  
 f) Legen Sie dort ein Verzeichnis namens CloudComputing an  
 g) Legen Sie in diesem Verzeichnis eine Datei namens server.log an  
 h) Lassen Sie sich alle Dateien im Verzeichnis CloudComputing anzeigen  
 i) Löschen Sie die Datei server.log  
-j) Löschen Sie das Verzeichnis CloudComputing (oder behalten Sie es, um dort alle weiteren Materialen zur Vorlesungen und zu den Übungen abzulegen)  
-k) Lassen Sie sich alle Prozesse anzeigen die gerade laufen  
+j) Löschen Sie das Verzeichnis CloudComputing (oder behalten Sie es, um dort alle weiteren Materialen zur Vorlesung und zu den Übungen abzulegen)  
+k) Lassen Sie sich alle Prozesse anzeigen, die gerade laufen  
 l) Beenden Sie ihren Terminal-Prozess  
 
 
@@ -25,7 +25,7 @@ Um Repositories zu klonen, sollten Sie zunächst [git](https://git-scm.com/book/
    ```bash
 git clone https://github.com/THN-Cloud-native-Computing/cnc-uebung1
    ```
-
+Anmerkung: Mit den Repositories zu den weiteren Übungen können Sie genauso verfahren.
 
 **Aufgabe 2 – Workload-Analyse**
 
