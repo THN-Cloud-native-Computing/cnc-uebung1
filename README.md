@@ -52,7 +52,11 @@ $T$ : Gesamtzeit
 
 Im Folgenden werden die Kosten (in €) einer vCPU für eine Cloud-Ressource c und eine On-premise-Ressource d betrachtet. Bestimmen Sie für die folgenden Kostenverhältnisse, welcher der Services sich für eine Cloud-Lösung eignet.  
 
-Hinweis: Das ist dann der Fall, wenn $\frac{c}{d}<\frac{p}{a}$ (siehe: Joe Weinman, "Mathematical Proof of the Inevitability of Cloud Computing" [https://cloud-native-computing.de/materials/Joe_Weinman_Inevitability_Of_Cloud.pdf])
+Hinweis: Hierzu müssen Sie prüfen, ob  
+
+$\frac{c}{d}<\frac{p}{a}$  
+
+(siehe: Joe Weinman, "Mathematical Proof of the Inevitability of Cloud Computing" [Inevitability of Cloud Computing]https://cloud-native-computing.de/materials/Joe_Weinman_Inevitability_Of_Cloud.pdf)
 
 | Nr.  | c  | d  |
 |:----------|:----------|:----------|
