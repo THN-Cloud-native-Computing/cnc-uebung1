@@ -29,6 +29,9 @@ Anmerkung: Mit den Repositories zu den weiteren Übungen können Sie genauso ver
 
 **Aufgabe 2 – Workload-Analyse**
 
+Hinweis: Die Theorie und praktischen Übungen zu den Aufgaben 2 bis 5 sind (in ähnlicher Weise) zu finden in [Nane Kratzke: Cloud-Native
+Computing. Hanser Verlag, 2022](https://cloud-native-computing.de) 
+
 In der zu dieser Übung ebenfalls bereitgestellten Excel-Tabelle Demands.xlsx sind 7 Services mit ihren Demands (im zeitlichen Verlauf von oben nach unten in der jeweiligen Spalte) dargestellt. Pro Zelle ist die Anzahl der Ressourceneinheiten (vCPUs) angegeben, welche pro Zeiteinheit (Stunde) genutzt werden.
 Stellen Sie die Services jeweils grafisch dar und ordnen Sie sie dem jeweiligen Workload-Typ aus der Vorlesung zu.
 
