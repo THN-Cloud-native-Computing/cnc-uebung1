@@ -37,13 +37,11 @@ Stellen Sie die Services jeweils grafisch dar und ordnen Sie sie dem jeweiligen 
 
 **Aufgabe 3 – Peak-to-Average-Ratio**
 
-Berechnen Sie für jeden Service aus Übung 1 das Peak-to-Average Ratio gemäß:  
+Berechnen Sie für jeden Service aus Übung 1 das Peak-to-Average $p/a$ Ratio mit   
 
-$p/a$  
+$p=max(D(t))$ für $0 \leq t \leq T$
 
-mit  
-
-$p=max(D(t))$ für $0<=t<=T$
+$a=1/T \sum_{t=1}^T D(t) $
 
 **Aufgabe 4 – Cloud-Kosten und das Peak-to-Average-Ratio**
 
