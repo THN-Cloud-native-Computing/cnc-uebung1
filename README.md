@@ -38,8 +38,11 @@ Stellen Sie die Services jeweils grafisch dar und ordnen Sie sie dem jeweiligen 
 **Aufgabe 3 – Peak-to-Average-Ratio**
 
 Berechnen Sie für jeden Service aus Übung 1 das Peak-to-Average $\frac{p}{a}$ Ratio mit   
+\begin{equation}
 
-$p = \max(D(t))$  für  $0 < t \leq T$
+p = \max(D(t))$  für  $0 < t \leq T
+
+\end{equation}
 
 $a = \frac{1}{T} \displaystyle\sum_{t=1}^{T} D(t) $  
 
