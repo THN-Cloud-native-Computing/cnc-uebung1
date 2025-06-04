@@ -45,12 +45,14 @@ $a = \frac{1}{T} \displaystyle\sum_{t=1}^{T} D(t) $
 
 wobei  
 
-$D(t)$ : Anzahl der Demands pro Zeiteinheit $t$
+$D(t)$ : Anzahl der Demands pro Zeiteinheit $t$  
 $T$ : Gesamtzeit
 
 **Aufgabe 4 – Cloud-Kosten und das Peak-to-Average-Ratio**
 
-Im Folgenden werden die Kosten (in €) einer vCPU für eine Cloud-Ressource c und eine On-premise-Ressource d betrachtet. Bestimmen Sie für die folgenden Kostenverhältnisse, welcher der Services sich für eine Cloud-Lösung eignet:
+Im Folgenden werden die Kosten (in €) einer vCPU für eine Cloud-Ressource c und eine On-premise-Ressource d betrachtet. Bestimmen Sie für die folgenden Kostenverhältnisse, welcher der Services sich für eine Cloud-Lösung eignet.  
+
+Hinweis: Das ist dann der Fall, wenn $\frac{c}{d}<\frac{p}{a}$ (siehe: Joe Weinman, "Mathematical Proof of the Inevitability of Cloud Computing" [https://cloud-native-computing.de/materials/Joe_Weinman_Inevitability_Of_Cloud.pdf])
 
 | Nr.  | c  | d  |
 |:----------|:----------|:----------|
